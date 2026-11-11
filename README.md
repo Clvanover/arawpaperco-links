@@ -6,7 +6,7 @@ Each folder is one short link: `/<name>/index.html` redirects to the target.
 | Address | Goes to |
 |---|---|
 | arawpaperco.com | Etsy shop |
-| arawpaperco.com/2027, /calendar | Free 2027 calendar sign-up page (MailerLite) |
+| arawpaperco.com/calendar | Free 2027 calendar sign-up page (MailerLite) |
 | arawpaperco.com/honeydo | Honey Do Cards sign-up page (MailerLite) |
 | arawpaperco.com/main | Main sign-up page (free Tally Card + planning pages, Araw list) |
 
